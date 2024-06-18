@@ -1,8 +1,8 @@
-# 🔴NETFLIX RECOMMENDATION SYSTEM WITH EXPLORATORY DATA ANALYSIS AND VISUALS🥤🍿
+# NETFLIX RECOMMENDATION SYSTEM WITH EXPLORATORY DATA ANALYSIS AND DATA VISUALISATION.
 ## with 3 datasets (here is a kaggle link of all datasets that I've already integrated) 
 Link for all datasets: https://www.kaggle.com/karan842/netflix-recommendation-and-eda/data
 
-# 🔵About Project:
+# About Project:
 This is a recommendation system project based on Netflix dataset from **Kaggle**, **IMDb** dataset, **Books** dataset. Netflix is one the popular online Movies & TV Shows streaming platform.
 There are thousands of TV Shows and Movies on Netflix those are watched by all over the world. According to Wikipedia net worth of Netflix in 2020 is USD2.761 billion (2020).
 
@@ -14,7 +14,7 @@ Project also contains dataset of **BOOKS** for finding out how many movies/shows
  
  While coding recommendation system I performed two techniques first is **TF-IDF(Term Frequency-Inverse Document Frequency)** by using this method model performed very well but for accuracy I created other model the second technique which was **CountVectorizer** and **Cosine Similarity**.
  
- # 🟢Approach:
+ # Approach:
  Approach is very simple because like other projects I started with classical way to build **Machine Learning** approach. Firstly I imported all necessary python libraries and loaded **Netflix** dataset first and visualize. Then I loaded two datasets of **IMDb** (ratings and movies). After this I started playing with the collected data i.e. visualization of factors, cleaning the data, making sub dataset and used them for better analysis. The additional part is displaying content with the help of **WordCloud**.
  
  # 🟡Recommedation System: 
